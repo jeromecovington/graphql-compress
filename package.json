@@ -1,0 +1,27 @@
+{
+  "name": "graphql-compress",
+  "version": "1.0.0",
+  "description": "Small regex-based compressor to be used before sending a graphql query over the wire.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeromecovington/graphql-compress.git"
+  },
+  "keywords": [
+    "graphql",
+    "query",
+    "compress"
+  ],
+  "author": "Jerome T.K. Covington",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeromecovington/graphql-compress/issues"
+  },
+  "homepage": "https://github.com/jeromecovington/graphql-compress#readme"
+}
